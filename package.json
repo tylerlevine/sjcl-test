@@ -1,0 +1,7 @@
+{
+  "name": "sjcl-windows-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sjcl.min.js",
+  "license": "BSD-2-Clause"
+}
